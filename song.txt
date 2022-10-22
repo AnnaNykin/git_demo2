@@ -13,5 +13,9 @@ pull changes from
 add something new
 ---------------------------------
 
+This is how we can
+pull changes from
+This is how we can
+pull changes from
 
 checkout --- checkout
