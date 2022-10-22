@@ -15,7 +15,3 @@ add something new
 
 
 checkout --- checkout
-
-______________________________
-_______________________________
-ooooooooooooooooooooooooooooooo
