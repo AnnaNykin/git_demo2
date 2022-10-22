@@ -12,3 +12,5 @@ pull changes from
 
 add something new
 ---------------------------------
+
+checkout --- checkout
